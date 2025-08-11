@@ -8,3 +8,7 @@ Only one file, and you need to change the variables inside it to match your case
 You can freely edit the extensions list to include more extensions to your liking. The extensions.txt file contains all extensions that PhotoRec can recover.
 
 Moves the files but can be set to only copy (change mv at line 39 to cp)
+
+Make sure the directories are global, not relative.
+
+I don't think this works on Windows.
