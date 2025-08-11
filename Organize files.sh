@@ -36,7 +36,7 @@ for folder in $folders;do
             number="${counters[$extension]}"
             destPath="$destinationFolder/$extension/$number.$extension"
             echo -n -e "\r\e[0K$completed/$folderAmount $percentage% $filePath -> $destPath"
-            mv "$filePath" "$destPath"
+            cp "$filePath" "$destPath"
             counters[$extension]=$((counters[$extension]+1))
             break
             fi
