@@ -17,6 +17,6 @@ I don't think this works on Windows.
 
 Additional instructions are inside the main .sh file. Be **extremely** careful when inputting directories when copying. If you have additional space I would recommend copying instead of moving
 
-##RUN THIS ONLY ONCE
+## RUN THIS ONLY ONCE
 Don't let the PC take a break. If you restart the script it will restart the file counter and will OVERWRITE your already moved files.
 If it somehow crashes or stops, load it into another directory!
