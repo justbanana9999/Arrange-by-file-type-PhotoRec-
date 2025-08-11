@@ -7,8 +7,10 @@ Only one file, and you need to change the variables inside it to match your case
 
 You can freely edit the extensions list to include more extensions to your liking. The extensions.txt file contains all extensions that PhotoRec can recover.
 
-Moves the files but can be set to only copy (change mv at line 39 to cp)
+### Copies the files but can be set to move instead (change cp at line 39 to mv)
 
 Make sure the directories are global, not relative.
 
 I don't think this works on Windows.
+
+Additional instructions are inside the main .sh file. Be **extremely** careful when inputting directories when copying. If you have additional space I would reccomend copying instead of moving
