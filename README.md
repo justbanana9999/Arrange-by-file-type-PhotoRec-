@@ -5,4 +5,6 @@ This is for the person that has corrupted their Windows while trying to resize t
 
 Only one file, and you need to change the variables inside it to match your case.
 
-Moves the files but can be set to only copy.
+You can freely edit the extensions list to include more extensions to your liking. The extensions.txt file contains all extensions that PhotoRec can recover.
+
+Moves the files but can be set to only copy (change mv at line 39 to cp)
