@@ -13,4 +13,4 @@ Make sure the directories are global, not relative.
 
 I don't think this works on Windows.
 
-Additional instructions are inside the main .sh file. Be **extremely** careful when inputting directories when copying. If you have additional space I would reccomend copying instead of moving
+Additional instructions are inside the main .sh file. Be **extremely** careful when inputting directories when copying. If you have additional space I would recommend copying instead of moving
